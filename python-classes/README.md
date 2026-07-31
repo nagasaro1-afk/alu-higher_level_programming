@@ -1,12 +1,11 @@
-# 0x06. Python - Classes and Objects
+# ALU Higher Level Programming
 
-This project covers Object Oriented Programming in Python: classes, objects, private/public attributes, properties (getters/setters), and instance methods, built step by step through a `Square` class.
+## python-classes
 
-## Tasks
+This directory covers Object Oriented Programming in Python: classes, objects, private/public attributes, properties (getters/setters), and instance methods, built step by step through a `Square` class.
 
 | File | Description |
 | --- | --- |
-| `0-square.py` | Empty Square class |
 | `1-square.py` | Square with a private size attribute (no validation) |
 | `2-square.py` | Square with size type/value validation |
 | `3-square.py` | Square with an `area()` method |
